@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 
 ## 前端
 
-- 網頁切版[高]
+- 網頁切版
     - 客製化切版：語意標籤使用、注重HTML架構、flex或grid排版、CSS Variables、自定義元素使用
     - 元件製作：包含按鈕、表單各種欄位、各種彈出視窗等元件，也結合vue components 、sass達到有效的跨專案程式碼重用
     - RWD：單一HTML結構自適應，無需拆分電腦版和手機版結構，常用於導覽列
-- 框架、函式庫、套件的應用[中]
+- 框架、函式庫、套件的應用
     - vue3框架：使用composition API進行開發，其中利用components和composable以達到程式碼重用的便利性，注重在傳統多文件結構的開發，但未涉及SFC
     - DOM操作：從jQuery轉向原生JavaScript的DOM操作
     - 資料交互、內容動態更新：從jQuery ajax轉變採用axios，做到動態更新內容、提交表單和回傳後的處理
